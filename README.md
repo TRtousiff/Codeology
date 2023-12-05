@@ -1,2 +1,2 @@
 # Codeology
-Online Learning Platform
+Online Learning Platform For University
